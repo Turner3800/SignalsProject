@@ -1,4 +1,4 @@
-# Assignment 1 - Turner Gravin
+# Operating Systems - Working with Signals - Turner Gravin
 
 How to Compile: `make`
 
