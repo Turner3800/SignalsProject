@@ -20,4 +20,7 @@ Final Statistics are printed to Standard Output.
 
 * The total amount of values to be recieved from signals is set to 5000, any more values than 5000 will be invalid.
 
-* Data in the files cannot be negative, as the producer will only be sending a negative value when it has finished sending all values.put.
+* Values in the data files cannot be negative, as the producer will only be sending a negative value when it has finished sending all values.
+
+
+
