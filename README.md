@@ -1,4 +1,4 @@
-# Operating Systems - Working with Signals - Turner Gravin
+# Operating Systems - Working with Signals
 
 How to Compile: `make`
 
